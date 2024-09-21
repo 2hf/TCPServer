@@ -1,2 +1,2 @@
-# TCPServer
-TCP Server in C++
+# TCP Server
+A barebones TCP Server in C++
